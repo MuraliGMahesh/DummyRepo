@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8458-352B
+
+ Directory of C:\Users\HP\Desktop\GitPractice
+
+23-09-2023  17:54    <DIR>          .
+23-09-2023  17:54    <DIR>          ..
+23-09-2023  17:54                 0 samplefile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  191,813,361,664 bytes free
